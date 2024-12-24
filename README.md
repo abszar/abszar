@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7AF2B&width=435&lines=Hi+I'm+Abdelali+Bourassine+%F0%9F%91%8B;Full+Stack+Web%2FApp+Developer;10%2B+Years+Of+Experience;Experienced+UI%2FUX+Designer)](https://git.io/typing-svg)
 
 <!--
 **abszar/abszar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
